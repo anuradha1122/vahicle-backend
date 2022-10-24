@@ -1,0 +1,31 @@
+{
+"userId":"123@gmail.com",
+"make":"Toyota",
+"model":"Probox",
+"type":"car",
+"colour":"white",
+"fuel":"GASOLINE",
+"engine":"1490CC",
+"bodyType":"WAGON",
+"doors":"5",
+"transmission":"Automatic",
+"manuYear":"2017",
+"regYear":"2018-09-02",
+"vCondition":"used",
+"maileage":"4500km",
+"ownership":"frist owner",
+"stdFeaturs":{
+				"1":"A/C",
+				"2":"Power Steering",
+				"3":"Power Window",
+				"4":"ABS",
+				"5":"Air Bags"
+		},
+"imgUrl":{
+				"1":"ddfdf",
+				"2":"dfdf",
+				"3":"dfdf",
+				"4":"gfgfg",
+				"5":"vcvv"
+		}
+}
